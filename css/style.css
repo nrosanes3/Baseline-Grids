@@ -1,0 +1,124 @@
+  body {
+    background-color: #fbfbfb;
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  img {
+    float: left;
+    margin-right: 1em;
+  }
+
+  footer {
+    font-style: italic;
+    color: #777;
+  }
+
+  /* My code goes here */
+
+  html {
+    font-size: 62.5%;
+  }
+
+  body {
+    font-family: Georgia, serif;
+    font-size: 1.8rem;
+    line-height: 1.5; 
+    background-image: linear-gradient(#0ff 1px, transparent 1px);
+    background-size: auto 2.7rem;
+    margin-left: 6rem;
+  }
+
+  /* Styling */
+
+  header {
+    margin: 2.7rem 0 8.1rem 0;
+  }
+  h1 {
+    font-size: 3.653rem;
+    line-height: 2.7rem;
+    margin-bottom: 2.7rem;
+    font-family: 'Cinzel', serif;
+    font-weight: 900;
+    text-align: center;
+  }
+
+  section {
+    margin-top: 8.1rem;
+  }
+
+  h2 {
+    font-size: 2.887rem;
+    line-height: 2.7rem;
+    margin-bottom: 2.7rem;
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 2.566rem;
+    margin-top: 2.7rem;
+    line-height: 2.7rem;
+    margin-bottom: 2.7rem;
+    font-family: 'Pangolin', cursive;
+  } 
+
+  h4 {
+    font-size: 2.281rem;
+    line-height: 2.7rem;
+    margin-bottom: 2.7rem;
+    font-family: 'Pangolin', cursive;
+  }
+
+  h5 {
+    font-size: 2.027rem;
+    line-height: 2.7rem;
+    margin-bottom: 2.7rem;
+    font-family: 'Pangolin', cursive;
+  }
+
+  p {
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    margin-bottom: 2.7rem;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  img {
+    width: 100%;
+    margin-bottom: 8.1rem;
+  }
+
+
+.characters {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.character-column {
+  width: 265px;
+  justify-content: space-evenly;
+  padding: 2.7rem;
+}
+
+footer {
+  margin: 13.5rem 0 2.7rem 0;
+  font-size: 1.8rem;
+}
+
+h6 {
+  font-family: 'Cinzel', serif;
+    font-weight: 700;
+}
+
+.footer-links {
+  font-family: 'Quicksand', sans-serif;
+}
+
+header li {
+  font-size: 2.281rem;
+  line-height: 2.7rem;
+  font-family: 'Pangolin', cursive;
+  text-align: center;
+}
